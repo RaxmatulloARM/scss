@@ -1,0 +1,44 @@
+.newpage {
+    margin-left: 200px;
+    margin-top: 150px;
+}
+
+.our__title {
+    width: 255px;
+    color: #83888F;
+    font-family: "Fraunces";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px; 
+}
+
+.our__list {
+    display: flex;
+    list-style: none;
+    margin-left: -135px;
+}
+
+.our__item {
+    margin-left: 95px;
+    margin-top: 72px;
+}
+
+.our__heading {
+    color: #333D4B;
+    font-family: "Fraunces";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 36px; 
+}
+
+.our__text {
+    width: 285px;
+    color: #333D4B;
+    font-family: "Barlow";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+}
